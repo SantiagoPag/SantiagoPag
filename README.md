@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagopag&label=Profile%20views&color=0e75b6&style=flat" alt="santiagopag" /> </p>
 
-- 🌱 I’m currently learning **Python and MongoDB**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantiagoPag?tab=repositories](https://github.com/SantiagoPag?tab=repositories)
 
